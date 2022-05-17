@@ -45,5 +45,6 @@ https://user-images.githubusercontent.com/67770858/168754832-9372cc56-7076-4c48-
 - blogs
 
 - courses
+  - [thenodeinstitute.com](https://thenodeinstitute.org/courses/introduction-to-visual-programming-with-touchdesigner/lessons/what-is-touchdesigner-and-why-should-i-use-it/)
 
 - social media
