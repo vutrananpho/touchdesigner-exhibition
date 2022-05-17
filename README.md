@@ -22,6 +22,10 @@ https://user-images.githubusercontent.com/67770858/168732723-1347ac59-9765-4f9e-
 ```
 
 #### *workflow*
-https://user-images.githubusercontent.com/67770858/168750642-2726bdd4-bbbd-4f0b-bdda-bab549dc6ba6.mov
 
+https://user-images.githubusercontent.com/67770858/168754832-9372cc56-7076-4c48-ab4f-a8c3d40ca11e.mov
+
+##### short sharing
+
+i first activated the playground of touchdesigner in spring 2021 in "introduction to digital tools" by prof todd holoubek. touchdesigner is all about playing around with given functions of the software. it is free & that's like the biggest perk. i basically just dragged & dropped these operators into the canvas. you can never guess what the final graphics will turn out to be. 
 
