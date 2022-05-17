@@ -44,4 +44,6 @@ https://user-images.githubusercontent.com/67770858/168754832-9372cc56-7076-4c48-
 
 - blogs
 
+- courses
+
 - social media
